@@ -1,0 +1,38 @@
+# Composer dependencies
+/vendor/
+
+# Environment configuration files
+.env
+.env.backup
+.env.local
+
+# IDE files
+/.idea/
+/.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Cache files
+*.cache
+
+# Logs
+/logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+/build/
+/dist/
+
+# Testing
+/coverage/
+.phpunit.result.cache

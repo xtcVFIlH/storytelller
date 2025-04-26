@@ -1,0 +1,11 @@
+{
+    "name": "hoccl/storyteller",
+    "description": "StOrYtElLeR",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
